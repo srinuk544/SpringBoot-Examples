@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91709\Downloads\SpringBoot-DI-Injection"/>
+			<item value="C:\Examples On springAndSB\SpringBootDataBaseConnecting-Product (1)\SpringBootDataBaseConnecting-Product"/>
+			<item value="C:\Users\91709\Downloads\SpringBootDataBaseConnecting-Product (1)\SpringBootDataBaseConnecting-Product"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-BookApplicaton\SpringBoot-BookApplicaton"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-AutoWiring-Examples\SpringBoot-AutoWiring-Examples"/>
+			<item value="C:\Users\91709\Downloads\SpringBootJdbcapplication\SpringBootJdbcapplication"/>
+			<item value="C:\Users\91709\Downloads\SpringExcel\SpringExcel"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-AutowiringExample2"/>
+			<item value="C:\Users\91709\Downloads\auto\auto"/>
+			<item value="C:\Users\91709\Downloads\auto"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-BesicApplication"/>
+			<item value="C:\Users\91709\Downloads\Spring-Annotations"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-Examples\SpringBoot-RestFullWeb-Service\SpringBoot-RestFullWeb-Service"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-Examples\SpringBoot-HelloWorld- Example"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\91709\Downloads\SpringBoot-Examples\SpringBoot-HelloWorld- Example\SpringBoot-HelloWorld-Example"/>
+			<item value="C:\Users\91709\Downloads\SpringBoot-Examples"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="WithOutUsing-SpringDataJpaExample"/>
+			<item value="com.SpringBoot"/>
+		</list>
+		<list key="name">
+			<item value="SringBoot"/>
+		</list>
+		<list key="artifactId">
+			<item value=" com.hibernate"/>
+			<item value="SpringBootExample"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

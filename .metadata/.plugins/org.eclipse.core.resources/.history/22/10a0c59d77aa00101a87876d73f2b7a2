@@ -1,0 +1,43 @@
+package com.spring.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.spring.model.Product;
+import com.spring.repository.ProductRepository;
+
+@Service
+public class ProductService {
+
+	@Autowired
+	private ProductRepository productRepository;
+
+	public Product saveProduct(Product product) {
+		return productRepository.save(product);
+
+	}
+
+	public List<Product> getAllProdutcs() {
+		return productRepository.findAll();
+	}
+
+	public Optional<Product> getByProId(long id) {
+		return productRepository.findById(id);
+
+	}
+
+	public Product updateProduct(Long id, Product product) {
+		product.setId(id);
+		return productRepository.save(product);
+	}
+
+	ublic String
+
+	deleteProduct(Long id) {
+        repo.deleteById(id);
+        return "Product deleted with id: " + id;
+    }
+}

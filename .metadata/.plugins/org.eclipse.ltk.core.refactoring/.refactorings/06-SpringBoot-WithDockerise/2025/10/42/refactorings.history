@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;06-SpringBoot-WithDockerise/target/06-SpringBoot-WithDockerise-0.0.1-SNAPSHOT.jar&apos; to &apos;06-Spring-boot.jar&apos;" description="Rename resource &apos;06-SpringBoot-WithDockerise-0.0.1-SNAPSHOT.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="target/06-SpringBoot-WithDockerise-0.0.1-SNAPSHOT.jar" name="06-Spring-boot.jar" stamp="1760717536037" updateReferences="true"/>
+</session>
